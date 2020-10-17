@@ -234,6 +234,7 @@ ul, ol {
 }
 .logo {
 	float: left;
+	color: #ffffff;
 }
 .logo a {
 	display: inline-block;
