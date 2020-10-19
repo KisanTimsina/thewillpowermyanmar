@@ -25,7 +25,7 @@ SECRET_KEY = 't&2$#pasz2ypx6#pls6d56p1p^j8i0s!dklovqs4v$jkzj0r#-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['thewillpowermyanmar.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['willpowermyanmar.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
